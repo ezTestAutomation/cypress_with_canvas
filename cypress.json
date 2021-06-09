@@ -1,0 +1,5 @@
+{
+    "env":{
+        "GOOGLE_APPLICATION_CREDENTIALS":"C:/Projects/test_nodejs/resources/client.json"
+    }
+}

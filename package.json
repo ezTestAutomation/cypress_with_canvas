@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "cypress:open": "cypress open",
+        "start": "node vision_api"
+    },
+    "devDependencies": {
+        "@google-cloud/vision": "^2.3.3",
+        "cypress": "^7.5.0",
+        "dotenv": "^10.0.0",
+        "google-auth-library": "^7.1.1"
+    }
+}
