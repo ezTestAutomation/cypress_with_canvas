@@ -1,0 +1,3 @@
+node_module\
+cypress\
+resources\client.json
